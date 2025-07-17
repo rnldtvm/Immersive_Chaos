@@ -63,3 +63,4 @@ Geometric metrics such as **curve length** are computed to quantify dynamic tran
 6. Enable XR Plugin for Oculus
 
 7. Play in Editor using Unity Game view, or Build & Deploy to Meta Quest 2
+   
